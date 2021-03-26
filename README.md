@@ -6,6 +6,7 @@
 
 <div>
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=blankeos&count_private=true&include_all_commits=true&theme=onedark" alt="willdoescode" />
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankeos&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
@@ -14,7 +15,9 @@
 > Blatantly inspired from myboi <a href="https://github.com/willdoescode">WillDoesCode</a>'s profile repo
 
 <br/>
-## 🔌 Connect With me!
+
+## Connect With me!
+
 [![Instagram Badge](https://img.shields.io/badge/-@taleoncarlo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/taleoncarlo/)](https://instagram.com/taleoncarlo/)
 
 <!--
