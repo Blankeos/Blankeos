@@ -9,9 +9,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankeos&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
+<br/>
+
 > Blatantly inspired from myboi <a href="https://github.com/willdoescode">WillDoesCode</a>'s profile repo
 
-Connect With me!
+<br/>
+## 🔌 Connect With me!
 [![Instagram Badge](https://img.shields.io/badge/-@taleoncarlo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/taleoncarlo/)](https://instagram.com/taleoncarlo/)
 
 <!--
