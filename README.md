@@ -1,6 +1,6 @@
 <h1 align="center">Yo 👋, I'm Carlo Taleon</h1>
-<h3 align="center">I'm a gamedev, webdev from Iloilo</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
+<h3 align="center">I'm a game developer, web developer, and designer from Iloilo</h3>
+<!--p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blankeos&theme=onedark&margin-w=15&margin-h=15&column=7" alt="blankeos" /></a> </p>
 
@@ -10,14 +10,16 @@
 </div>
 
 <br/>
-
-> Blatantly inspired from myboi <a href="https://github.com/willdoescode">WillDoesCode</a>'s profile repo
-
+<br/>
 <br/>
 
 ## Connect With me!
 
 [![Instagram Badge](https://img.shields.io/badge/-@taleoncarlo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/taleoncarlo/)](https://instagram.com/taleoncarlo/)
+
+<p align="center">
+© Blatantly inspired from myboi <a href="https://github.com/willdoescode">WillDoesCode</a>'s profile repo
+</p>
 
 <!--
 **Blankeos/Blankeos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
