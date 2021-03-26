@@ -1,8 +1,7 @@
 <h1 align="center">Yo! 👋 I'm Carlo Taleon</h1>
 <h5 align="center">I'm a game developer, web developer, and designer from Iloilo</h3>
 
-<!--p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p-->
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blankeos&theme=juicyfresh&margin-w=15&margin-h=15&column=7" alt="blankeos" /></a> </p>
 
