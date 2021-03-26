@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blankeos&theme=onedark&margin-w=15&margin-h=15&column=7" alt="blankeos" /></a> </p>
 
-<div align="center>
+<div align="center">
 <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=blankeos&count_private=true&include_all_commits=true&theme=onedark" alt="willdoescode" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankeos&layout=compact&theme=onedark&langs_count=15" />
 </div>
