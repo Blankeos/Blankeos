@@ -13,7 +13,7 @@
 </a>
 
 
-## Connect With me!
+## Connect With me! ✨
 
 [![Instagram Badge](https://img.shields.io/badge/-@taleoncarlo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/taleoncarlo/)](https://instagram.com/taleoncarlo/)
 
