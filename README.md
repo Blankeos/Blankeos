@@ -1,5 +1,5 @@
 <h1 align="center">Yo! 👋 I'm Carlo Taleon</h1>
-<h5 align="center">I'm a game developer, web developer, and designer from Iloilo</h3>
+<h5 align="center">I'm a 🎮game developer, ⚛web developer, and 🎨designer from Iloilo</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
 
