@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankeos&theme=react&layout=compact&langs_count=15" />
 </a>
 
-
 ## Connect With me! ✨
 
 [![Instagram Badge](https://img.shields.io/badge/-@taleoncarlo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/taleoncarlo/)](https://instagram.com/taleoncarlo/)
