@@ -11,7 +11,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankeos&theme=react&layout=compact&langs_count=15" />
 </a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<a align="center" href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blankeos&theme=react" />
 </a>
 
