@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Carlo+Taleon;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h5 align="center">I'm a 🎮 game developer, ⚛ web developer, and 🎨 designer from Iloilo</h3>
+<p align="center">I'm a 🎮 game developer, ⚛ web developer, and 🎨 designer from Iloilo</p>
+<p align="center">Sophomore CS student at <b>West Visayas State University</b></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20Views&color=36BCF7&style=flat" alt="Blankeos" /> </p>
 
