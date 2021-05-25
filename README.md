@@ -1,19 +1,29 @@
-<h1 align="center">Yo! 👋 I'm Carlo Taleon</h1>
+<!-- <h1 align="center">Yo! 👋 I'm Carlo Taleon</h1> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Carlo+Taleon;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h5 align="center">I'm a 🎮game developer, ⚛web developer, and 🎨designer from Iloilo</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20views&color=0e75b6&style=flat" alt="Blankeos" /> </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blankeos&theme=juicyfresh&margin-w=15&margin-h=15&column=7" alt="blankeos" /></a> </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=blankeos&theme=react&count_private=true&include_all_commits=true" alt="willdoescode" />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blankeos&theme=juicyfresh&margin-w=15&margin-h=15&column=6" alt="blankeos" /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=blankeos&theme=react&count_private=true&include_all_commits=true" alt="Blankeos" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=blankeos&theme=react" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankeos&theme=react&layout=compact&langs_count=15" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankeos&theme=react&layout=compact&langs_count=15" />
-</a>
-<a align="center" href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blankeos&theme=react" />
-</a>
+</div>
 
 ## Connect With me! ✨
 
