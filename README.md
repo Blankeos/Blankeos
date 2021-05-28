@@ -28,7 +28,8 @@
 
 <div align="center">
   <h2 align="center">✨ Connect With me! ✨</h2>
-  <img src="https://img.shields.io/badge/-@taleoncarlo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/taleoncarlo/)](https://instagram.com/taleoncarlo/" />
+  <img src="https://img.shields.io/badge/-@taleoncarlo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/taleoncarlo/" />
+  <img src="https://img.shields.io/badge/-Carlo%20Taleon-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlotaleon/" />
   <br>
   <p>
     <sub>
