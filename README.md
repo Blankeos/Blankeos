@@ -27,6 +27,16 @@
 </div>
 
 <div align="center">
+  <h2 align="center">🔭 Some things I've worked on 🔭</h2>
+  <a target="_blank" href="https://github.com/Blankeos/cit214-productreviewapp/">
+    ☕ Cafe.ly
+  </a><span>- A full-stack social product review app like Yelp or MyAnimeList. My most polished project!</span><br />
+  <a target="_blank" href="https://github.com/seajayrubynose/cafely-manual/">
+    📔 Cafe.ly User Manual
+  </a><span>- An SSG documentation/blog site built with NextJS. (Uses .md to render content)</span><br>
+</div>
+
+<div align="center">
   <h2 align="center">✨ Connect With me! ✨</h2>
   <a target="_blank" href="https://instagram.com/taleoncarlo/">
     <img src="https://img.shields.io/badge/-@taleoncarlo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/taleoncarlo/" />
