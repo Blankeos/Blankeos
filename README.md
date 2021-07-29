@@ -1,4 +1,3 @@
-<!-- <h1 align="center">Yo! 👋 I'm Carlo Taleon</h1> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Carlo+Taleon;Nice+to+meet+you!&center=true&size=30">
