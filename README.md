@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">🔭 Some things I've worked on 🔭</h2>
+  <h2 align="center"💻 Some things I've worked on 💻</h2>
   <a target="_blank" href="https://github.com/Blankeos/cit214-productreviewapp/">
     ☕ Cafe.ly
   </a><span>- A full-stack social product review app like Yelp or MyAnimeList. My most polished project!</span><br />
