@@ -7,7 +7,7 @@
 <p align="center">I'm a 🎮 game developer, ⚛ web developer, and 🎨 designer from Iloilo</p>
 <p align="center">CS student at <b>West Visayas State University</b></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20Views&color=36BCF7&style=flat" alt="Blankeos" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20Views&color=60d9fb&style=flat-square" alt="Blankeos" /> </p>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="800" src="https://github-profile-trophy.vercel.app/?username=blankeos&theme=juicyfresh&margin-w=15&margin-h=15&column=6" alt="blankeos" /></a>
@@ -21,9 +21,23 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankeos&theme=react&layout=compact&langs_count=15" />
-</a>
+<!--   <a href="https://github.com/anuraghazra/convoychat">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankeos&theme=react&layout=compact&langs_count=15" />
+  </a> -->
+  <span><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/react-1f323a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/TailwindCSS-white.svg?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/Node.JS-303030.svg?style=for-the-badge&logo=node.js&logoColor=3c873a" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/Express.JS-000000.svg?style=for-the-badge&logo=express&logoColor=white" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/Firebase-049ae5.svg?style=for-the-badge&logo=firebase&logoColor=fecc30" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/Csharp-803184.svg?style=for-the-badge&logo=csharp&logoColor=white" height="35px" /></span>
+  <span><img src="https://img.shields.io/badge/python-ffd43b.svg?style=for-the-badge&logo=python&logoColor=306998" height="35px" /></span>
 </div>
 
 <div align="center">
@@ -42,10 +56,10 @@
 <div align="center">
   <h2 align="center">✨ Connect With me! ✨</h2>
   <a target="_blank" href="https://instagram.com/taleoncarlo/">
-    <img src="https://img.shields.io/badge/-@taleoncarlo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/taleoncarlo/" />
-  </a>
+      <img src="https://img.shields.io/badge/taleoncarlo-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
+   </a>
   <a target="_blank" href="https://www.linkedin.com/in/carlotaleon/">
-    <img src="https://img.shields.io/badge/-Carlo%20Taleon-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlotaleon/" />
+    <img src="https://img.shields.io/badge/Carlo+Taleon-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <br>
   <p>
