@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20Views&color=60d9fb&style=flat-square" alt="Blankeos" /> </p>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="800" src="https://github-profile-trophy.vercel.app/?username=blankeos&theme=juicyfresh&margin-w=15&margin-h=15&column=6" alt="blankeos" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="800" src="https://github-profile-trophy.vercel.app/?username=blankeos&theme=juicyfresh&margin-w=15&margin-h=15&column=7" alt="blankeos" /></a>
 </div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
