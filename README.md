@@ -30,6 +30,7 @@
   <span><img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25px" /></span>
   <span><img src="https://img.shields.io/badge/react-1f323a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px" /></span>
   <span><img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" height="25px" /></span>
+  <span><img src="https://img.shields.io/badge/Redux-1e1f1f.svg?style=for-the-badge&logo=redux&logoColor=764ABC" height="25px" /></span>
   <span><img src="https://img.shields.io/badge/TailwindCSS-white.svg?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" height="25px" /></span>
   <span><img src="https://img.shields.io/badge/Node.JS-303030.svg?style=for-the-badge&logo=node.js&logoColor=3c873a" height="25px" /></span>
   <span><img src="https://img.shields.io/badge/Express.JS-000000.svg?style=for-the-badge&logo=express&logoColor=white" height="25px" /></span>
