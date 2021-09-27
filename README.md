@@ -60,7 +60,7 @@
       <img src="https://img.shields.io/badge/taleoncarlo-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" />
    </a>
   <a target="_blank" href="https://www.linkedin.com/in/carlotaleon/">
-    <img src="https://img.shields.io/badge/Carlo-Taleon-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Carlo_Taleon-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <br>
   <p>
