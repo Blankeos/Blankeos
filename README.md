@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Carlo+Taleon;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<p align="center"><a href="https://carlo.vercel.app">carlo.vercel.app</a></p>
+<p align="center"><a href="https://carlo.vercel.app">Portfolio | carlo.vercel.app</a></p>
 <p align="center">I'm a 🎮 game developer, ⚛ web developer, and 🎨 designer from Iloilo</p>
 <p align="center">CS student at <b>West Visayas State University</b></p>
 
