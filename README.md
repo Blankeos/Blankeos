@@ -52,6 +52,9 @@
   <a target="_blank" href="https://github.com/seajayrubynose/cafely-manual/">
     📔 Cafe.ly User Manual
   </a><span>- An SSG documentation/blog site built with NextJS. (Uses .md to render content)</span><br>
+  <a target="_blank" href="https://linkroom.live">
+   📘 LinkRoom
+  </a><span>- a beautiful link-bookmarking app with complex state.</span><br>
 </div>
 
 <div align="center">
