@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Carlo+Taleon;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<p align="center"><a href="https://carlo.vercel.app">Portfolio | carlo.vercel.app</a></p>
+<p align="center"><a href="https://carlo.vercel.app">carlo.vercel.app</a></p>
 <p align="center">I'm a 🎮 game developer, ⚛ web developer, and 🎨 designer from Iloilo</p>
 <p align="center">CS student at <b>West Visayas State University</b></p>
 
@@ -43,18 +43,15 @@
 
 <div align="center">
   <h2 align="center">💻 Some things I've worked on 💻</h2>
-  <a target="_blank" href="https://github.com/blankeos/linkroom/">
-    🏹 LinkRoom
-  </a><span>- A Link Dashboard Progressive Web App. Something like LinkTree.</span><br />
+  <a target="_blank" href="https://linkroom.live">
+    📘 LinkRoom
+  </a><span>- A link dashboard app with complex state.</span><br />
   <a target="_blank" href="https://github.com/Blankeos/cit214-productreviewapp/">
     ☕ Cafe.ly
   </a><span>- A full-stack social product review app like Yelp or MyAnimeList. My most polished project!</span><br />
   <a target="_blank" href="https://github.com/seajayrubynose/cafely-manual/">
     📔 Cafe.ly User Manual
   </a><span>- An SSG documentation/blog site built with NextJS. (Uses .md to render content)</span><br>
-  <a target="_blank" href="https://linkroom.live">
-   📘 LinkRoom
-  </a><span>- a beautiful link-bookmarking app with complex state.</span><br>
 </div>
 
 <div align="center">
