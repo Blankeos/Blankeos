@@ -4,7 +4,7 @@
   </a>
 </h1>
 <p align="center"><a href="https://carlo.vercel.app">carlo.vercel.app</a></p>
-<p align="center">I'm a 🎮 game developer and ⚛ web developer from Iloilo.</p>
+<p align="center">I'm a 🎮 game developer and ⚛ web developer from Iloilo</p>
 <p align="center">CS student at <b>West Visayas State University</b></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20Views&color=60d9fb&style=flat-square" alt="Blankeos" /> </p>
