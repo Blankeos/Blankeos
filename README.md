@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">💻 Some things I've worked on 💻</h2>
+  <h2 align="center">💻 Projects 💻</h2>
   <a target="_blank" href="https://linkroom.live">
     📘 LinkRoom
   </a><span>- A link dashboard app with complex state.</span><br />
