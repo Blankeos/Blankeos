@@ -64,4 +64,5 @@
     <img src="https://img.shields.io/badge/Carlo_Taleon-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <br>
+
 </div>
