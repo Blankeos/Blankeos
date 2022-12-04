@@ -4,7 +4,7 @@
   </a>
 </h1>
 <p align="center"><a href="https://carlo.vercel.app/">carlo.vercel.app</a></p>
-<p align="center">I'm a 🎮 game developer and ⚛ web developer from Iloilo.</p>
+<p align="center">Software Engineer from Iloilo PH</p>
 <p align="center">Senior CS student at <b>West Visayas State University</b></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile%20Views&color=60d9fb&style=flat-square" alt="Blankeos" /> </p>
@@ -43,12 +43,15 @@
 
 <div align="center">
   <h2 align="center">💻 Projects 💻</h2>
+  <a target="_blank" href="">
+    🦴 ScolioVis
+  </a><span>- Automatic Assessment of Scoliosis using ML and CV! (My Thesis)</span><br />
   <a target="_blank" href="https://linkroom.live">
     📘 LinkRoom
   </a><span>- A link dashboard app with complex state.</span><br />
   <a target="_blank" href="https://github.com/Blankeos/cit214-productreviewapp/">
     ☕ Cafe.ly
-  </a><span>- A full-stack social product review app like Yelp or MyAnimeList. My most polished project!</span><br />
+  </a><span>- A full-stack social product review app like Yelp or MyAnimeList.</span><br />
   <a target="_blank" href="https://github.com/seajayrubynose/cafely-manual/">
     📔 Cafe.ly User Manual
   </a><span>- An SSG documentation/blog site built with NextJS. (Uses .md to render content)</span><br>
