@@ -57,7 +57,6 @@
   </a><span>- An SSG documentation/blog site built with NextJS. (Uses .md to render content)</span><br>
 </div>
 
-
 <div align="center">
   <h2 align="center">✨ Connect With me! ✨</h2>
   <a target="_blank" href="https://instagram.com/taleoncarlo/">
