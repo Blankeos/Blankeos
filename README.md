@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Carlo 🤓</h1>
 <p align="center"><b>Software Engineer from Iloilo PH<b/></p>
 <p align="center">
-  🔷 🔹 <a href="https://carlo.vercel.app/" target="_blank">carlo.vercel.app</a> 🔹 🔷
+  <a href="https://carlo.vercel.app/" target="_blank">🔷 🔹 carlo.vercel.app 🔹 🔷</a> 
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile+Views&color=3b82f6&style=for-the-badge" alt="Blankeos" /></p>
 
@@ -14,6 +14,7 @@ I'm a senior CS student @ WVSU. I love creating **web apps**, **games**, and doi
 - [🦴 ScolioVis.app](https://scoliovis.app/). Automatically assess scoliosis severity using computer vision and machine learning. My undergrad thesis!
 - [📘 LinkRoom](https://linkroom.vercel.app/). A link dashboard app with complex state (Won 3rd out of 32 teams at the DICT Region 6 Startup Pitching Competition).
 - [☕ Cafe.ly](https://cafely.vercel.app). A full-stack social product review app like Yelp but for coffee!
+- [🦎 Chromeleon](https://play.google.com/store/apps/details?id=com.DigikattStudios.Chromeleon&hl=en&gl=US), very first game I made when I was in Highschool.
 
 ### 📫 Reach Me
 
