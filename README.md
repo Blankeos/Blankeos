@@ -13,9 +13,9 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="800" src="https://github-profile-trophy.vercel.app/?username=blankeos&theme=juicyfresh&margin-w=15&margin-h=15&column=7" alt="blankeos" /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=blankeos&theme=react&count_private=true&include_all_commits=true" alt="Blankeos" />
-  </a>
+  </a> -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=blankeos&theme=react" />
   </a>
