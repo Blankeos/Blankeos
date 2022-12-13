@@ -21,6 +21,7 @@ I'm a senior **CS student @ WVSU**. I love creating **web apps**, **games**, and
 - **[@taleoncarlo](https://instagram.com/taleoncarlo/).** I post cool ComSci stories 🚀
 - **[LinkedIn](https://www.linkedin.com/in/carlotaleon/).** Get to know me, but professionally 🧐
 
+<br />
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=blankeos&theme=react&count_private=true&include_all_commits=true" alt="Blankeos" />
