@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Carlo 🤓</h1>
-<p align="center"><b>Software Engineer from Iloilo PH<b/></p>
+<p align="center"><b>Software Engineer from Iloilo PH</b></p>
 <p align="center">
   <a href="https://carlo.vercel.app/" target="_blank">🔷 🔹 carlo.vercel.app 🔹 🔷</a> 
 </p>
