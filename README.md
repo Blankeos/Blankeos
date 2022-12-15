@@ -24,9 +24,9 @@ I'm a senior **CS student @ WVSU**. I love creating **web apps**, **games**, and
 <br />
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=blankeos&theme=react&count_private=true&include_all_commits=true" alt="Blankeos" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=blankeos&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_radius=5&border_color=3B82F6&icon_color=3B82F6&title_color=3B82F6&text_color=ffffff" alt="Blankeos" />
 </a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=blankeos&theme=react" />
+<a href="https://git.io/streak-stats">
+    <img width="400" src="https://streak-stats.demolab.com?user=Blankeos&theme=dark&border_radius=5&ring=3B82F6&currStreakLabel=3B82F6&border=3B82F6&fire=3B82F6" />
 </a>
 </div>
