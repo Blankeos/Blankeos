@@ -7,7 +7,7 @@
 
 ### 🤓 Who?
 
-I'm a senior **CS student @ WVSU**. I love creating **web apps**, **games**, and doing **machine learning**! I generally work with React, Typescript, Python, and C# (ASP.net & Unity), and GDScript.
+Currently a **Software Engineer** (yay!). I love creating **web apps**, **games**, and doing **machine learning**! My favorite tools so far: Svelte, Golang, Bun, and TypeScript. I also work with React, Next, and play around with GDScript too!
 
 ### 💻 Projects
 
