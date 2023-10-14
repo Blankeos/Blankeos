@@ -7,7 +7,8 @@
 
 ### 🤓 Who?
 
-Currently a **Software Engineer** (yay!). I love creating **web apps**, **games**, and doing **machine learning**! My favorite tools so far: Svelte, Golang, Bun, and TypeScript. I also work with React, Next, and play around with GDScript too!
+Currently a **Software Engineer** (yay!). I love creating **web apps**, **games**, and doing **machine learning**! 
+Professionally, I do React, but the tools I genuinely enjoy at the moment are: Svelte, Golang, Bun, TypeScript, GQTY, Grats, PayloadCMS, and PostgreSQL!
 
 ### 💻 Projects
 
