@@ -14,7 +14,7 @@ Professionally, I do React, but the tools I genuinely enjoy at the moment are: S
 
 - **[🦴 ScolioVis.app](https://scoliovis.app/)**. Automatically assess scoliosis severity using computer vision and machine learning. My undergrad thesis!
 - **[📘 LinkRoom](https://linkroom.vercel.app/).** A link dashboard app with complex state (Won 3rd out of 32 teams at the DICT Region 6 Startup Pitching Competition).
-- **[🎙️ Resonate](https://resonate.vercel.app/)**. Full-stack audio-based social media app (Made Svelte + Convex 🧡 for WebDevCody's Hackathon).
+- **[🎙️ Resonate](https://resonate-social.vercel.app/)**. Full-stack audio-based social media app (Made Svelte + Convex 🧡 for WebDevCody's Hackathon).
 - **[☕ Cafe.ly](https://cafely.vercel.app).** A full-stack social product review app like Yelp but for coffee!
 - **[🦎 Chromeleon](https://play.google.com/store/apps/details?id=com.DigikattStudios.Chromeleon&hl=en&gl=US).** very first game I made when I was in Highschool.
 
