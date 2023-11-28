@@ -8,7 +8,7 @@
 ### 🤓 Who?
 
 Currently a **Software Engineer**. I love creating **web apps**, **games**, and doing **machine learning**! 
-Professionally, I do React, but the tools I genuinely enjoy at the moment are: Svelte, Golang, Bun, TypeScript, and PostgreSQL!
+Professionally, I do React, but the tools I genuinely enjoy at the moment are: Svelte, Golang, Bun, TypeScript, and PostgreSQL! Also liking Prismic, Pocketbase, and PayloadCMS for easy backends.
 
 ### 💻 Projects
 
