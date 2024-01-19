@@ -10,8 +10,7 @@
 Currently a **Software Engineer**. I love creating **web apps**, **games**, and doing **machine learning**! 
 Professionally, I do React, but the tools I genuinely enjoy at the moment are: Svelte, Golang, Bun, TypeScript, and PostgreSQL!
 
-Recently, I've been playing around validating PRs, linting, and auto deploying with GH actions. Been also playing around with Prismic, Pocketbase, PayloadCMS, Supabase for quick and easy backends/CMSs.
-I'm into trying out new, performant, and experimental stuff like Drizzle, Turso, and Lucia. Will be playing around with these ones soon: farm-fe, rspack, Hono RPC, Loro (CRDTs), Umami.is, Elysia, openapi-axios-client.
+Recently playing with PostGIS, Lucia, ElysiaJS. My goto easy backends/CMSs Prismic, Pocketbase, PayloadCMS, and Supabase. Can't wait to make my own startups.
 
 ### 💻 Projects
 
