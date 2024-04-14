@@ -7,10 +7,22 @@
 
 ### 🤓 Who?
 
-Currently a **Software Engineer**. I love creating **web apps**, **games**, and doing **machine learning**! 
-Professionally, I do React, but the tools I genuinely enjoy at the moment are: Svelte, Golang, Bun, TypeScript, and PostgreSQL!
+Currently a **Software Engineer**. I love creating **web apps**, **dev tools**, **games**, and doing **machine learning**! 
+Professionally, I do React, but I genuinely enjoy **Svelte** personally.
 
-Recently playing with PostGIS, Lucia, ElysiaJS. My goto easy backends/CMSs Prismic, Pocketbase, PayloadCMS, and Supabase. Can't wait to make my own startups.
+🔭 Always exploring a mix-&-match set of tools from legacy to bleeding edge so I can make my **⭐️ perfect stack ⭐️** (currently):
+- Frontend: Svelte, TanStackQuery, Tailwind
+- Backend: SvelteKit, Hono(RPC)/ElysiaJS(Eden), tRPC, Auth (Lucia or Auth.js)
+- Object Storage: Backblaze B2 or Cloudflare R2
+- Database: Postgres or SQLite (Turso or Cloudflare D1)
+- DevOps: Kamal, Dokku, Caprover, AWS SST (have yet to compare these)
+
+🧩 My perfect architectures:
+   - Monolithic Backend: Data-driven, vertically-sliced, and minimal Layers: (Routers, Controllers, Services, and Repository).
+   - Monolithic Metaframework: No separate backend, no router, no controller, and minimal Layers: (Services and Repository).
+   - For larger usecases: Domain-Driven Design.
+
+Recently played around with: Wails, SolidJS, Vike, and PostGIS.
 
 ### 💻 Projects
 
