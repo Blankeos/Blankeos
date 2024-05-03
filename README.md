@@ -22,7 +22,7 @@ Professionally, I do React, but I genuinely enjoy **Svelte** personally.
    - Monolithic Metaframework: No separate backend, no router, no controller, and minimal Layers: (Services and Repository).
    - For larger usecases: Domain-Driven Design.
 
-Recently played around with: Wails, SolidJS, Vike, and PostGIS.
+Recently played around with: Wails, SolidJS, Vike, and PostGIS. I'm really like Solid + Vike 💙 so far.
 
 ### 💻 Projects
 
