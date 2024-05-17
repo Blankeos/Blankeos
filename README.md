@@ -8,11 +8,11 @@
 ### 🤓 Who?
 
 Currently a **Software Engineer**. I love creating **web apps**, **dev tools**, **games**, and doing **machine learning**! 
-Professionally, I do React, but I genuinely enjoy **Svelte** personally.
+Professionally, I do React, but I genuinely enjoy **Svelte** and **Solid** personally.
 
 🔭 Always exploring a mix-&-match set of tools from legacy to bleeding edge so I can make my **⭐️ perfect stack ⭐️** (currently):
-- Frontend: Svelte, TanStackQuery, Tailwind
-- Backend: SvelteKit, Hono(RPC)/ElysiaJS(Eden), tRPC, Auth (Lucia or Auth.js)
+- Frontend: Svelte/Solid, TanStackQuery, Tailwind
+- Backend: SvelteKit/Vike, Hono(RPC)/ElysiaJS(Eden), tRPC, Auth (Lucia or Auth.js)
 - Object Storage: Backblaze B2 or Cloudflare R2
 - Database: Postgres or SQLite (Turso or Cloudflare D1)
 - DevOps: Kamal, Dokku, Caprover, AWS SST (have yet to compare these)
