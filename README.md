@@ -17,13 +17,6 @@ Professionally, I do React, but I genuinely enjoy **Svelte** and **Solid** perso
 - Database: Postgres or SQLite (Turso or Cloudflare D1)
 - DevOps: Kamal, Dokku, Caprover, AWS SST (have yet to compare these)
 
-🧩 My perfect architectures:
-   - Monolithic Backend: Data-driven, vertically-sliced, and minimal Layers: (Routers, Controllers, Services, and Repository).
-   - Monolithic Metaframework: No separate backend, no router, no controller, and minimal Layers: (Services and Repository).
-   - For larger usecases: Domain-Driven Design.
-
-Recently played around with: Wails, SolidJS, Vike, and PostGIS. I'm really liking Solid + Vike 💙 so far.
-
 ### 💻 Projects
 
 - **[🦴 ScolioVis.app](https://scoliovis.app/)**. Automatically assess scoliosis severity using computer vision and machine learning. My undergrad thesis!
@@ -33,6 +26,7 @@ Recently played around with: Wails, SolidJS, Vike, and PostGIS. I'm really likin
 - **[🦎 Chromeleon](https://play.google.com/store/apps/details?id=com.DigikattStudios.Chromeleon&hl=en&gl=US).** very first game I made when I was in Highschool. (Taken down by Google Play :( )
 -  [🧡 SvelteLaunch](https://github.com/blankeos/svelte-launch) and [💙 SolidLaunch](github.com/blankeos/solid-launch) - Simple but pragmatic boilerplates for shipping full-stack apps with Svelte and Solid based on my accumulated expertise.
 -  [🌀 Spring Solid](https://www.npmjs.com/package/spring-solid) - NPM library I wrote for creating spring-physics-based animations on SolidJS (Ported Svelte's spring into Solid).
+-  Open Source: Also super active on OSS communities. Did some good contributions on: [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16) and [Vike](https://github.com/vikejs/vike-solid/pull/86).
 
 ### 📫 Reach Me
 
