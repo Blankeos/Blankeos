@@ -26,11 +26,11 @@ Professionally, I do React, but I genuinely enjoy **Svelte** and **Solid** perso
 - **[🦎 Chromeleon](https://play.google.com/store/apps/details?id=com.DigikattStudios.Chromeleon&hl=en&gl=US).** very first game I made when I was in Highschool. (Taken down by Google Play :( )
 -  [🧡 SvelteLaunch](https://github.com/blankeos/svelte-launch) and [💙 SolidLaunch](github.com/blankeos/solid-launch) - Simple but pragmatic boilerplates for shipping full-stack apps with Svelte and Solid based on my accumulated expertise.
 -  [🌀 Spring Solid](https://www.npmjs.com/package/spring-solid) - NPM library I wrote for creating spring-physics-based animations on SolidJS (Ported Svelte's spring into Solid).
--  Open Source: Also super active on OSS communities. Did some good contributions on: [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16) and [Vike](https://github.com/vikejs/vike-solid/pull/86).
+-  Open Source: Also super active on OSS communities. Did some good contributions on: [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16) and [Vike](https://github.com/vikejs/vike-solid/pull/86). I also maintain my [own libraries](https://www.npmjs.com/~blankeos) (mostly ports) like [bagon-hooks](https://github.com/blankeos/bagon-hooks), [solid-number-flow](github.com/blankeos/solid-number-flow). 
 
 ### 📫 Reach Me
 
-- **[@taleoncarlo](https://instagram.com/taleoncarlo/).** I post cool ComSci stories 🚀
+- **[@taleoncarlo](https://instagram.com/taleoncarlo/).** I post cool ComSci and irl stories 🚀
 - **[LinkedIn](https://www.linkedin.com/in/carlotaleon/).** Get to know me, but professionally 🧐
 
 <br />
