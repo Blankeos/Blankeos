@@ -23,9 +23,9 @@ Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** persona
 - **[📘 LinkRoom](https://linkroom.vercel.app/).** A link dashboard app with complex state (Won 3rd out of 32 teams at the DICT Region 6 Startup Pitching Competition).
 - **[🎙️ Resonate](https://resonate-social.vercel.app/)**. Full-stack audio-based social media app (Made Svelte + Convex 🧡 for WebDevCody's Hackathon).
 - **[☕ Cafe.ly](https://cafely.vercel.app).** A full-stack social product review app like Yelp but for coffee!
-- **[🦎 Chromeleon](https://play.google.com/store/apps/details?id=com.DigikattStudios.Chromeleon&hl=en&gl=US).** very first game I made when I was in Highschool. (Taken down by Google Play :( )
+- **[🦎 Chromeleon](https://play.google.com/store/apps/details?id=com.DigikattStudios.Chromeleon&hl=en&gl=US).** very first game I made when I was in Highschool.
 -  [🧡 SvelteLaunch](https://github.com/blankeos/svelte-launch) and [💙 SolidLaunch](github.com/blankeos/solid-launch) - Simple but pragmatic boilerplates for shipping full-stack apps with Svelte and Solid based on my accumulated expertise.
--  [🌀 Spring Solid](https://www.npmjs.com/package/spring-solid) - NPM library I wrote for creating spring-physics-based animations on SolidJS (Ported Svelte's spring into Solid).
+-  [🌀 Spring Solid](https://primitives.solidjs.community/package/spring) - NPM library I wrote for creating spring-physics-based animations on SolidJS (Ported Svelte's spring into Solid). Now part of the official Solid Community Primitives!
 -  Open Source: Also super active on OSS communities. Did some good contributions on: [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16) and [Vike](https://github.com/vikejs/vike-solid/pull/86). I also maintain my [own libraries](https://www.npmjs.com/~blankeos) (mostly ports) like [bagon-hooks](https://github.com/blankeos/bagon-hooks), [solid-number-flow](github.com/blankeos/solid-number-flow), [vike-metadata](https://github.com/blankeos/vike-metadata). 
 
 ### 📫 Reach Me
