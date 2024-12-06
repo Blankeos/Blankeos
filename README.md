@@ -26,7 +26,12 @@ Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** persona
 - **[🦎 Chromeleon](https://play.google.com/store/apps/details?id=com.DigikattStudios.Chromeleon&hl=en&gl=US).** very first game I made when I was in Highschool.
 -  [🧡 SvelteLaunch](https://github.com/blankeos/svelte-launch) and [💙 SolidLaunch](github.com/blankeos/solid-launch) - Simple but pragmatic boilerplates for shipping full-stack apps with Svelte and Solid based on my accumulated expertise.
 -  [🌀 Spring Solid](https://primitives.solidjs.community/package/spring) - NPM library I wrote for creating spring-physics-based animations on SolidJS (Ported Svelte's spring into Solid). Now part of the official Solid Community Primitives!
--  Open Source: Also super active on OSS communities. Did some good contributions on: [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16) and [Vike](https://github.com/vikejs/vike-solid/pull/86). I also maintain my [own libraries](https://www.npmjs.com/~blankeos) (mostly ports) like [bagon-hooks](https://github.com/blankeos/bagon-hooks), [solid-number-flow](github.com/blankeos/solid-number-flow), [vike-metadata](https://github.com/blankeos/vike-metadata). 
+-  Open Source: Also super active on OSS communities. Did some good contributions on: [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16) and [Vike](https://github.com/vikejs/vike-solid/pull/86).
+-  I also maintain my [own npm libraries](https://www.npmjs.com/~blankeos) like
+    -  [bagon-hooks](https://github.com/blankeos/bagon-hooks) - Extremely handy hooks but for Solid. (semi-port of mantine-hooks)
+    -  [solid-number-flow](github.com/blankeos/solid-number-flow) - number animations in Solid (port)
+    -  [vike-metadata](https://github.com/blankeos/vike-metadata) - like NextJS metadata API but in Vike (Vue, React, Solid).
+    -  [tsdot](https://github.com/blankeos/tsdot) - Superfast templating engine for Node/Browser (modernized port)
 
 ### 📫 Reach Me
 
