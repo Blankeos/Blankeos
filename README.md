@@ -29,7 +29,7 @@ Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** persona
 -  Open Source: Also super active on OSS communities. Did some good contributions on: [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16) and [Vike](https://github.com/vikejs/vike-solid/pull/86).
 -  I also maintain my [own npm libraries](https://www.npmjs.com/~blankeos) like
     -  [bagon-hooks](https://github.com/blankeos/bagon-hooks) - Extremely handy hooks but for Solid. (semi-port of mantine-hooks)
-    -  [solid-number-flow](github.com/blankeos/solid-number-flow) - number animations in Solid (port)
+    -  [solid-number-flow]([github.com/blankeos/solid-number-flow](https://github.com/Blankeos/solid-number-flow)) - number animations in Solid (port)
     -  [vike-metadata](https://github.com/blankeos/vike-metadata) - like NextJS metadata API but in Vike (Vue, React, Solid).
     -  [tsdot](https://github.com/blankeos/tsdot) - Superfast templating engine for Node/Browser (modernized port)
 
