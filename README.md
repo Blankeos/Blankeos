@@ -12,7 +12,7 @@ Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** persona
 
 🔭 Always exploring a mix-&-match set of tools from legacy to bleeding edge so I can make my **⭐️ perfect stack ⭐️** (currently):
 - Frontend: Solid or Svelte, TanStackQuery, Tailwind
-- Backend: Vike or SvelteKit, Hono(RPC)/ElysiaJS(Eden), tRPC, Auth (Better-Auth or Self-Rolled)
+- Backend: Vike or SvelteKit, Hono(RPC)/ElysiaJS(Eden), tRPC, Auth (Self-Rolled with Lucia + Arctic)
 - Object Storage: Backblaze B2 or Cloudflare R2
 - Database: Postgres (Supabase or PrismaPG), or SQLite (Turso) + Prisma + Kysely
 - DevOps: Dokploy (Favorite), Kamal, Caprover, AWS SST, Cloudflare
