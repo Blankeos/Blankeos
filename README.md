@@ -14,7 +14,7 @@ Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** persona
 - Frontend: Solid or Svelte, TanStackQuery, Tailwind
 - Backend: Vike or SvelteKit, Hono(RPC)/ElysiaJS(Eden), tRPC, Auth (Self-Rolled with Lucia + Arctic)
 - Object Storage: Backblaze B2 or Cloudflare R2
-- Database: Postgres (Supabase or PrismaPG), or SQLite (Turso) + Prisma + Kysely
+- Database: Postgres (Supabase, Neon, Tembo, [and more](https://x.com/carlo_taleon/status/1892165125253022130)), or SQLite (Turso) + Prisma + Kysely
 - DevOps: Dokploy (Favorite), Kamal, Caprover, AWS SST, Cloudflare
 
 ### 💻 Projects
