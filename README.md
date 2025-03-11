@@ -31,6 +31,7 @@ Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** persona
     -  [bagon-hooks](https://github.com/blankeos/bagon-hooks) - Extremely handy hooks but for Solid. (semi-port of mantine-hooks)
     -  [solid-number-flow](https://github.com/Blankeos/solid-number-flow) - number animations in Solid (port)
     -  [vike-metadata](https://github.com/blankeos/vike-metadata) - like NextJS metadata API but in Vike (Vue, React, Solid).
+    -  [vike-routegen](https://github.com/blankeos/vike-routegen) - TanStack-like routing within Vike (Vue, React, Solid)! What!?
     -  [tsdot](https://github.com/blankeos/tsdot) - Superfast templating engine for Node/Browser (modernized port)
 
 ### 📫 Reach Me
