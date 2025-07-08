@@ -11,11 +11,11 @@ Currently a **Software Engineer**. I love creating **web apps**, **dev tools**, 
 Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** personally.
 
 🔭 Always exploring a mix-&-match set of tools from legacy to bleeding edge so I can make my **⭐️ perfect stack ⭐️** (currently):
-- Frontend: Solid or Svelte, TanStackQuery, Tailwind
-- Backend: Vike or SvelteKit, Hono(RPC)/ElysiaJS(Eden), tRPC, Auth (Self-Rolled with Lucia + Arctic)
+- Frontend: Solid, TanStackQuery, Tailwind
+- Backend: Vike, Hono(RPC)/ElysiaJS(Eden), tRPC, Auth (Self-Rolled with Lucia + Arctic, or better-auth)
 - Object Storage: Backblaze B2 or Cloudflare R2
 - Database: Postgres (Supabase, Neon, Tembo, [and more](https://x.com/carlo_taleon/status/1892165125253022130)), or SQLite (Turso) + Prisma + Kysely
-- DevOps: Dokploy (Favorite), Kamal, Caprover, AWS SST, Cloudflare
+- DevOps: Dokploy (Favorite), Dokku, Kamal, Caprover, AWS SST, Cloudflare
 
 ### 💻 Projects
 
