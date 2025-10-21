@@ -33,8 +33,7 @@ Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** persona
     -  [solid-number-flow](https://github.com/Blankeos/solid-number-flow) - number animations in Solid (port)
     -  [vike-metadata](https://github.com/blankeos/vike-metadata) - like NextJS metadata API but in Vike (Vue, React, Solid).
     -  [vike-routegen](https://github.com/blankeos/vike-routegen) - TanStack-like typesafe routes within Vike (Vue, React, Solid)! What!?
-    -  [tsdot](https://github.com/blankeos/tsdot) - Superfast templating engine for Node/Browser (modernized port)
-    -  [icones-cli](https://github.com/Blankeos/icones-cli) - Easier way to add icons to your app without any dependencies.
+    -  [iconmate](https://github.com/Blankeos/iconmate) - Easier way to add icons to your app without any dependencies.
 
 ### 📫 Reach Me
 
