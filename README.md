@@ -30,6 +30,7 @@ Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** persona
 -  [🐼 iconmate](https://github.com/Blankeos/iconmate) - Easier way to add icons to your app without any dependencies, written in Rust!
 -  [🦀 crabcode](http://github.com/blankeos/crabcode) - WIP AI CLI Coding Agent in pure rust.
 -  [📃 gittydocs](http://github.com/blankeos/gittydocs) - The most low-friction documentation framework w/ out-of-the-box partial search, ai-friendliness, and easy deployment. Built w/ Solid+Vike.
+- [🐣 Cobblepedia](http://github.com/blankeos/cobblepedia) - Fastest cobblemon (pokemon in minecraft) wikipedia for vim-nerds.
 -  [🦀 craback](https://github.com/Blankeos/craback) - WIP A CLI daemon to backup any folder daemon to s3 periodically.
 -  Open Source: Also super active on OSS communities. Did some good contributions on:
    -  [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16)
