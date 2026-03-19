@@ -35,6 +35,7 @@ Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** persona
 - [👁️ reyes](https://github.com/Blankeos/reyes) - A computer-use CLI built on rustautogui - giving AI vision and control over your computer.
 - [🛸 spacetime-studio](https://github.com/Blankeos/spacetimedb-studio) - SpacetimeDB Studio like Prisma Studio / Drizzle-Kit Studio.
 - [🧠 modelcli](https://github.com/blankeos/modelcli) - Call any LLM from the command line via models.dev.
+- [🔴 cobblepedia](https://github.com/Blankeos/cobblepedia) - Fastest Cobblemon wiki site ever! (w/ Cobbleverse support, no wiki has this)
 -  Open Source: Also super active on OSS communities. Did some good contributions on:
    -  [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16)
    -  [Vike](https://github.com/vikejs/vike-solid/pull/86)
