@@ -36,7 +36,6 @@ Professionally, I do React, but I genuinely enjoy **SolidJS** personally.
 - [🛸 spacetime-studio](https://github.com/Blankeos/spacetimedb-studio) - SpacetimeDB Studio like Prisma Studio / Drizzle-Kit Studio.
 - [🧠 modelcli](https://github.com/blankeos/modelcli) - Call any LLM from the command line via models.dev.
 - [♐ lazygitrs](https://github.com/blankeos/lazygitrs) - A faster, memory-safe, more ergonomic slopfork of lazygit (w/ AI commit gen, better diff).
-- [🔴 cobblepedia](https://github.com/Blankeos/cobblepedia) - Fastest Cobblemon wiki site ever! (w/ Cobbleverse support, no wiki has this)
 - [💠 solid-sileo](https://github.com/Blankeos/sileo) - An opinionated, physics-based toast notification library for SolidJS (port).
 -  Open Source: Also super active on OSS communities. Did some good contributions on:
    -  [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16)
