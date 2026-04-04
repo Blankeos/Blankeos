@@ -8,7 +8,7 @@
 ### 🤓 Who?
 
 Currently a **Software Engineer**. I love creating **web apps**, **dev tools**, **games**, and doing **machine learning**! 
-Professionally, I do React and Svelte, but I genuinely enjoy **SolidJS** personally.
+Professionally, I do React, but I genuinely enjoy **SolidJS** personally.
 
 🔭 Always exploring a mix-&-match set of tools from legacy to bleeding edge so I can make my **⭐️ perfect stack ⭐️** (currently):
 - Frontend: Solid, TanStackQuery, Tailwind
