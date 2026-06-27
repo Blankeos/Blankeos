@@ -31,6 +31,7 @@ Professionally, I do React, but I genuinely enjoy **SolidJS** personally.
 -  [🦀 crabcode](http://github.com/blankeos/crabcode) - AI CLI Coding Agent in pure rust.
 -  [💌 crabenv](http://github.com/blankeos/crabenv) - An env var management standard + CLI for any project, written in rust.
 -  [☁️ cftun](http://github.com/blankeos/cftun) - A tiny Rust CLI that turns Cloudflare Tunnel into a free, persistent ngrok alternative for webhooks.
+-  [🍽️ uplate](https://github.com/blankeos/uplate) - CLI for initializing/upgrading boilerplates from git.
 -  [📃 gittydocs](http://github.com/blankeos/gittydocs) - The most low-friction documentation framework w/ out-of-the-box partial search, ai-friendliness, and easy deployment. Built w/ Solid+Vike.
 - [🐣 cobblepedia](http://github.com/blankeos/cobblepedia) - Fastest cobblemon (pokemon in minecraft) wikipedia for vim-nerds.
 - [🦀 craback](https://github.com/Blankeos/craback) - WIP A CLI daemon to backup any folder daemon to s3 periodically.
