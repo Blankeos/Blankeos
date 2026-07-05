@@ -19,20 +19,23 @@ Professionally, I do React, but I genuinely enjoy **SolidJS** personally.
 
 ### 💻 Projects
 
+#### Apps
 - **[🦴 ScolioVis.app](https://scoliovis.app/)**. Automatically assess scoliosis severity using computer vision and machine learning. My undergrad thesis!
 - **[📘 LinkRoom](https://linkroom.vercel.app/).** A link dashboard app with complex state (Won 3rd out of 32 teams at the DICT Region 6 Startup Pitching Competition).
 - **[🎙️ Resonate](https://resonate-social.vercel.app/)**. Full-stack audio-based social media app (Made Svelte + Convex 🧡 for WebDevCody's Hackathon).
 - **[☕ Cafe.ly](https://cafely.vercel.app).** A full-stack social product review app like Yelp but for coffee!
 - **[🦎 Chromeleon](https://play.google.com/store/apps/details?id=com.DigikattStudios.Chromeleon&hl=en&gl=US).** very first game I made when I was in Highschool.
--  [🧡 SvelteLaunch](https://github.com/blankeos/svelte-launch) and [💙 SolidLaunch](https://github.com/Blankeos/solid-launch) - Simple but pragmatic boilerplates for shipping full-stack apps with Svelte and Solid based on my accumulated expertise.
--  [🌀 Spring Solid](https://primitives.solidjs.community/package/spring) - NPM library I wrote for creating spring-physics-based animations on SolidJS (Ported Svelte's spring into Solid). Now part of the official Solid Community Primitives!
--  [💰 Quarta](http://quarta.pages.dev) - My personal finance insights app. Maintain data on excel/sheets, quickly see useful insights on Quarta. Built w/ Rust.
--  [🐼 iconmate](https://github.com/Blankeos/iconmate) - Easier way to add icons to your app without any dependencies, written in Rust!
--  [🦀 crabcode](http://github.com/blankeos/crabcode) - AI CLI Coding Agent in pure rust.
--  [💌 crabenv](http://github.com/blankeos/crabenv) - An env var management standard + CLI for any project, written in rust.
--  [☁️ cftun](http://github.com/blankeos/cftun) - A tiny Rust CLI that turns Cloudflare Tunnel into a free, persistent ngrok alternative for webhooks.
--  [🍽️ uplate](https://github.com/blankeos/uplate) - CLI for initializing/upgrading boilerplates from git.
--  [📃 gittydocs](http://github.com/blankeos/gittydocs) - The most low-friction documentation framework w/ out-of-the-box partial search, ai-friendliness, and easy deployment. Built w/ Solid+Vike.
+- [💰 Quarta](http://quarta.pages.dev) - My personal finance insights app. Maintain data on excel/sheets, quickly see useful insights on Quarta. Built w/ Rust.
+
+#### Tools
+- [🧡 SvelteLaunch](https://github.com/blankeos/svelte-launch) and [💙 SolidLaunch](https://github.com/Blankeos/solid-launch) - Simple but pragmatic boilerplates for shipping full-stack apps with Svelte and Solid based on my accumulated expertise.
+- [🌀 Spring Solid](https://primitives.solidjs.community/package/spring) - NPM library I wrote for creating spring-physics-based animations on SolidJS (Ported Svelte's spring into Solid). Now part of the official Solid Community Primitives!
+- [🐼 iconmate](https://github.com/Blankeos/iconmate) - Easier way to add icons to your app without any dependencies, written in Rust!
+- [🦀 crabcode](http://github.com/blankeos/crabcode) - AI CLI Coding Agent in pure rust.
+- [💌 crabenv](http://github.com/blankeos/crabenv) - An env var management standard + CLI for any project, written in rust.
+- [☁️ cftun](http://github.com/blankeos/cftun) - A tiny Rust CLI that turns Cloudflare Tunnel into a free, persistent ngrok alternative for webhooks.
+- [🍽️ uplate](https://github.com/blankeos/uplate) - CLI for initializing/upgrading boilerplates from git.
+- [📃 gittydocs](http://github.com/blankeos/gittydocs) - The most low-friction documentation framework w/ out-of-the-box partial search, ai-friendliness, and easy deployment. Built w/ Solid+Vike.
 - [🐣 cobblepedia](http://github.com/blankeos/cobblepedia) - Fastest cobblemon (pokemon in minecraft) wikipedia for vim-nerds.
 - [🦀 craback](https://github.com/Blankeos/craback) - WIP A CLI daemon to backup any folder daemon to s3 periodically.
 - [👁️ reyes](https://github.com/Blankeos/reyes) - A computer-use CLI built on rustautogui - giving AI vision and control over your computer.
@@ -40,15 +43,16 @@ Professionally, I do React, but I genuinely enjoy **SolidJS** personally.
 - [🧠 modelcli](https://github.com/blankeos/modelcli) - Call any LLM from the command line via models.dev.
 - [♐ lazygitrs](https://github.com/blankeos/lazygitrs) - A faster, memory-safe, more ergonomic slopfork of lazygit (w/ AI commit gen, better diff).
 - [💠 solid-sileo](https://github.com/Blankeos/sileo) - An opinionated, physics-based toast notification library for SolidJS (port).
--  Open Source: Also super active on OSS communities. Did some good contributions on:
-   -  [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16)
-   -  [Vike](https://github.com/vikejs/vike-solid/pull/86)
-   -  [aisdk.rs](https://github.com/lazy-hq/aisdk/pull/76)
--  I also maintain my [own npm libraries](https://www.npmjs.com/~blankeos) like
-    -  [bagon-hooks](https://github.com/blankeos/bagon-hooks) - Extremely handy hooks but for Solid. (semi-port of mantine-hooks)
-    -  [solid-number-flow](https://github.com/Blankeos/solid-number-flow) - number animations in Solid (port)
-    -  [vike-metadata](https://github.com/blankeos/vike-metadata) - like NextJS metadata API but in Vike (Vue, React, Solid).
-    -  [vike-routegen](https://github.com/blankeos/vike-routegen) - TanStack-like typesafe routes within Vike (Vue, React, Solid)! What!?
+- [🐲 bagon-hooks](https://github.com/blankeos/bagon-hooks) - Extremely handy hooks but for Solid. (semi-port of mantine-hooks)
+- [🔢 solid-number-flow](https://github.com/Blankeos/solid-number-flow) - number animations in Solid (port)
+- [✊ vike-metadata](https://github.com/blankeos/vike-metadata) - like NextJS metadata API but in Vike (Vue, React, Solid).
+- [🔗 vike-routegen](https://github.com/blankeos/vike-routegen) - TanStack-like typesafe routes within Vike (Vue, React, Solid)! Crazy!
+
+#### Open source contributions
+
+- [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16)
+- [Vike](https://github.com/vikejs/vike-solid/pull/86)
+- [aisdk.rs](https://github.com/lazy-hq/aisdk/pull/76)
 
 ### 📫 Reach Me
 
