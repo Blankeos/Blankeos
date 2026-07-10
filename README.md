@@ -53,6 +53,7 @@ Professionally, I do React, but I genuinely enjoy **SolidJS** personally.
 - [solid-sonner](https://github.com/wobsoriano/solid-sonner/pull/16)
 - [Vike](https://github.com/vikejs/vike-solid/pull/86)
 - [aisdk.rs](https://github.com/lazy-hq/aisdk/pull/76)
+- [color-lsp (zed)](https://github.com/huacnlee/color-lsp/pull/23)
 
 ### 📫 Reach Me
 
