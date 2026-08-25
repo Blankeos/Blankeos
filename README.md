@@ -41,6 +41,7 @@ Professionally, I do React, but I genuinely enjoy **SolidJS** personally.
 - [👁️ reyes](https://github.com/Blankeos/reyes) - A computer-use CLI built on rustautogui - giving AI vision and control over your computer.
 - [🛸 spacetime-studio](https://github.com/Blankeos/spacetimedb-studio) - SpacetimeDB Studio like Prisma Studio / Drizzle-Kit Studio.
 - [🧠 modelcli](https://github.com/blankeos/modelcli) - Call any LLM from the command line via models.dev.
+- [🤖 model-catalog](https://github.com/blankeos/model-catalog) - A tiny JS/TS library and CLI for building AI model catalogs and listing
 - [♐ lazygitrs](https://github.com/blankeos/lazygitrs) - A faster, memory-safe, more ergonomic slopfork of lazygit (w/ AI commit gen, better diff).
 - [💠 solid-sileo](https://github.com/Blankeos/sileo) - An opinionated, physics-based toast notification library for SolidJS (port).
 - [🐲 bagon-hooks](https://github.com/blankeos/bagon-hooks) - Extremely handy hooks but for Solid. (semi-port of mantine-hooks)
